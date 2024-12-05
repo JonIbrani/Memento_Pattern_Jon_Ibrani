@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jon_Ibrani_Memento_Pattern_Project", "Jon_Ibrani_Memento_Pattern_Project\Jon_Ibrani_Memento_Pattern_Project.csproj", "{0AA72202-E0CF-409C-AF71-75B65FEC92C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditorMementoApp.Tests", "TextEditorMementoApp.Tests\TextEditorMementoApp.Tests.csproj", "{C6D53B45-99D0-4CFC-8FEC-9C312EB64649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA72202-E0CF-409C-AF71-75B65FEC92C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA72202-E0CF-409C-AF71-75B65FEC92C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA72202-E0CF-409C-AF71-75B65FEC92C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA72202-E0CF-409C-AF71-75B65FEC92C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D53B45-99D0-4CFC-8FEC-9C312EB64649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D53B45-99D0-4CFC-8FEC-9C312EB64649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D53B45-99D0-4CFC-8FEC-9C312EB64649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D53B45-99D0-4CFC-8FEC-9C312EB64649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68500054-6A0A-4DAB-B1FD-2F1614C11584}
+	EndGlobalSection
+EndGlobal

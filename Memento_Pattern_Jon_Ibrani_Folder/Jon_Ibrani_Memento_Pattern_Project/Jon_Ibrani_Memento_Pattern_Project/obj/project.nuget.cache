@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "YuY2wRWWKvo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joni\\Desktop\\Memento_Pattern_Jon_Ibrani_Folder\\Jon_Ibrani_Memento_Pattern_Project\\Jon_Ibrani_Memento_Pattern_Project\\Jon_Ibrani_Memento_Pattern_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joni\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.analyzers\\1.16.0\\xunit.analyzers.1.16.0.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
+    "C:\\Users\\joni\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
