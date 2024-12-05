@@ -66,7 +66,7 @@ namespace TextEditorMementoApp.Tests
         [Fact]
         public void Undo_ShouldDoNothingIfNoStateSaved()
         {
-            // Arrange
+            // Arrangee 
             var editor = new TextEditor("No State Saved");
             var caretaker = new Caretaker();
 
